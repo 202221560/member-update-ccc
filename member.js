@@ -369,6 +369,22 @@ export const club_member_details = [
 ];
 
 
+   {
+     id: 10,
+     fullname:'Sarmista Pradhan'
+     firstname:'Sarmista'
+    description:'web development entusiast'
+   desgination:'junior web developer'
+   member_type: 'Core Member',
+    member:"student",
+    profile_img:https://avatars.githubusercontent.com/u/145207121?v=4
+     github_link:https://github.com/202221560
+     linkedln_link:https://www.linkedin.com/in/sarmista-pradhan-929a97290
+     type: "new",
+     year: "2022"
+   }
+
+
 
 export const admin_data = [
   // {
